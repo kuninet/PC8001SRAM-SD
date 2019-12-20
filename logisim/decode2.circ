@@ -97,7 +97,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="0" loc="(110,130)" name="Pin">
       <a name="tristate" val="false"/>
-      <a name="label" val="#MREQ"/>
+      <a name="label" val="#IOREQ"/>
     </comp>
     <comp lib="1" loc="(210,110)" name="OR Gate"/>
     <comp lib="1" loc="(200,330)" name="AND Gate"/>
